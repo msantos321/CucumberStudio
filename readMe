@@ -1,1 +1,14 @@
 https://marketplace.atlassian.com/apps/1212743/cucumberstudio-bdd-test-management?hosting=cloud&tab=overview
+
+Coffee machine - Hiptest publisher sample
+Backup
+
+This is a sample project to test CucumberStudio publisher in various languages.
+
+This project can be used with the projects named "hps-<language>-<framework>" that can be found in our GitHub page: https://github.com/hiptest
+
+You can also have a look at the following tutorials to set it up:
+
+Getting started with BDD: https://cucumber.io/tools/cucumberstudio/getting-started-with-behavior-driven-development/
+CI in 5 minutes flat: https://cucumber.io/tools/cucumberstudio/ci-in-5-minutes-flat/
+Version: 1.0
